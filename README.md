@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **ayaan.taimur1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/ayaan-taimur-5aa34930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn Profile</a>
+<h3 align="left" style="display: inline;">Connect with me: </h3>
+<a href="https://www.linkedin.com/in/ayaan-taimur-5aa34930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="display: inline; margin-left: 10px;">LinkedIn Profile</a>
 
 <p align="left">
 </p>
